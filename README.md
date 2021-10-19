@@ -42,9 +42,9 @@ pip install requirements.txt
 
 Here is the accuracy of each model trained during the development of this project:
 
-- CNN from scratch: 1.31%
-- CNN from VGG-16: 41.26%
-- CNN from InceptionV3: 78.94%
+- CNN from scratch: 1.07%
+- CNN from VGG-16: 42.22%
+- CNN from InceptionV3: 77.51%
 
 It is possible to see that the CNN written from scratch has better accuracy than just random guesses, which is 1 in 133: 0.75%, but it's far from acceptable.
 
